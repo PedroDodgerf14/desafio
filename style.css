@@ -1,0 +1,44 @@
+body{
+	width: 100%;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+main{
+	display: flex;
+}
+.nav__menu{
+	font-family: 'Open Sans', sans-serif;
+	list-style-type: none;
+}
+.nav__menu a{
+	color: #1C1C1C;
+	text-decoration: none;
+}
+.block__menu{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 10%;
+}
+.section__content{
+	width: 100%;
+}
+.img__inicio{
+	width: 100%;
+}
+/*footer*/
+#contato{
+	width: 100%;
+	margin: 0;
+}
+.img__footer{
+	margin: 0;
+}
+.p__contato{
+	width: 180px;
+	padding: 10px;
+	background:#fff;
+	position: relative;
+	bottom: 100px;
+	left: 500px;
+}
